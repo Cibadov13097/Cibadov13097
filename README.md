@@ -6,9 +6,9 @@
 
 
 ## Skills & Technologies
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,anaconda,googlecolab,django,spark,scikitlearn,tableau,postgresql,mysql,js,threejs,vite,api,html)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,tailwindcss,gsap,c,cpp,cs,dotnet,autocad,assembly,bash,docker,kubernetes,postman,gcp,github)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,wireshark,vmwareworkstation,windows,linux,debian,kali)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,anaconda,googlecolab,postgresql,mysql,js,vite,api,html)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,tailwindcss,gsap,c,cpp,cs,dotnet,autocad,bash,docker,postman,gcp,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,wireshark,windows,linux,kali)
 
 
 ## Statistics
