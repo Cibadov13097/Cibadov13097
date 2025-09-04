@@ -12,16 +12,7 @@
 
 
 ## Statistics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=feroverte&hide=issues&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feroverte&layout=donut&theme=tokyonight" height="170">
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=feroverte&theme=tokyonight&margin-w=15&margin-h=15" alt="feroverte" />
-  </a>
-</p>
 
 ## Connect With Me
 
