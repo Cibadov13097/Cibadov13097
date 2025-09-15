@@ -23,13 +23,14 @@
 
 ---
 
-<!-- ABOUT -->
-<h2 align="center">💡 About Me</h2>
+🎓 <b>Full-stack developer</b> passionate about tech and design.<br>
+<h2 align="center">🌐 Portfolio & Projects</h2>
 <p align="center">
-  🎓 <b>Full-stack developer</b> passionate about tech and design.<br>
-  🚀 Currently building <a href="https://github.com/Cibadov13097/PetConnect"><b>PetConnect</b></a><br>
-  🎯 Love experimenting with <b>AI</b>, <b>Web Dev</b>, and <b>Security</b>.
+  My personal website: <a href="https://cavidibadov.site"><b>cavidibadov.site</b></a><br>
+  Completed project: <a href="https://elitnerj.com"><b>Elitnerj.com</b></a>
 </p>
+🎯 Love experimenting with <b>AI</b>, <b>Web Dev</b>, and <b>Security</b>.
+
 
 ---
 
