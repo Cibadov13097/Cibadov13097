@@ -27,7 +27,7 @@
 <h2 align="center">🌐 Portfolio & Projects</h2>
 <p align="center">
   My personal website: <a href="https://cavidibadov.site"><b>cavidibadov.site</b></a><br>
-  Completed freelance project: <a href="https://elitnerj.com"><b>Elitnerj.com</b></a>
+  Completed freelance project: <a href="https://elitnerj.com"><b>Elitnerj.com</b></a><br>
   Completed freelance project: <a href="https://ecopaktemizlik.az"><b>ecopaktemizlik.az</b></a>
 </p>
 🎯 Love experimenting with <b>AI</b>, <b>Web Dev</b>, and <b>Security</b>.
